@@ -1,6 +1,6 @@
 # 10-middlewares-e-cabecalhos-http
 
-**Project overview:
+**Project overview:**
 
 * O objetivo do projeto era criar uma API que retorna o CEP utilizando Express, Node.js e TypeScript;
 * Você pode pesquisar diretamente usando o código do cep ou colocar estado/cidade/logradouro;
